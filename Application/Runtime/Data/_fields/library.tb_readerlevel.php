@@ -1,0 +1,1 @@
+a:6:{i:0;s:2:"id";i:1;s:8:"level_id";i:2;s:13:"borrow_number";i:3;s:11:"borrow_days";s:3:"_pk";s:2:"id";s:5:"_type";a:4:{s:2:"id";s:16:"int(10) unsigned";s:8:"level_id";s:11:"varchar(10)";s:13:"borrow_number";s:10:"tinyint(4)";s:11:"borrow_days";s:10:"tinyint(4)";}}

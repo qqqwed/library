@@ -1,0 +1,1 @@
+a:6:{i:0;s:2:"id";i:1;s:9:"role_name";i:2;s:13:"role_auth_ids";i:3;s:12:"role_auth_ac";s:3:"_pk";s:2:"id";s:5:"_type";a:4:{s:2:"id";s:7:"int(11)";s:9:"role_name";s:12:"varchar(255)";s:13:"role_auth_ids";s:12:"varchar(255)";s:12:"role_auth_ac";s:12:"varchar(255)";}}
